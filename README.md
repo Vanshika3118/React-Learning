@@ -29,7 +29,7 @@ Learning about React Fragments (<></>) and their use.
 
 Understanding how props work and how to pass data between components.
 
-🛠️ Projects
+🛠️ Projects (From Static to Dynamic)
 A collection of React projects built step by step:
 
 ✅ To-Do App 📝
