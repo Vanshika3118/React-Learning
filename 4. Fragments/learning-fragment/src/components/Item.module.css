@@ -4,5 +4,9 @@
 }
 
 .kg-item{
-  background-color: khaki;
+  background-color: white;
+}
+
+.button{
+  float:right;
 }
