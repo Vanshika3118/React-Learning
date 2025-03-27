@@ -23,10 +23,17 @@ function App() {
   // let setTextState=textStateArr[1];
 
   let [textToShow , setTextState]=useState();
-  let [foodItems, setFoodItems]=useState(["Salad", "Green Vegetable", "Roti"])
+  let [foodItems, setFoodItems]=useState([]);
 
   const onKeyDown = (event) => {
-    console.log(event.target.value);
+    if(event.key==='Enter')
+    {
+      let newFoodItem=event.target.value;
+      // foodItems.push(newFoodItem); // state value is immutable that is good technique so we cant change foodItems
+      event.target.value="";
+      let newItems=[...foodItems,newFoodItem];
+      setFoodItems(newItems);
+    }
     setTextState(event.target.value);
   };
   return (
@@ -37,8 +44,8 @@ function App() {
         {/* {foodItems.length===0 ? <h3>I am still hungry.</h3>:null} */}
         {/* {emptyMessage} */}
         {/* {foodItems.length === 0 && <h3>I am still hungry.</h3>} */}
-        <ErrorMessage items={foodItems} />
         <FoodInput handleKeyDown={onKeyDown} />
+        <ErrorMessage items={foodItems} />
         <FoodItems items={foodItems} />
         {/* <ul className="list-group">
         {foodItems.map((item) => (
