@@ -2,7 +2,7 @@
 Welcome to my React.js learning repository! This journey covers everything from basic concepts to hands-on projects, helping me build strong foundations in frontend development using React.
 
 📚 Topics Covered
-🧠 React Fundamentals
+#🧠 React Fundamentals
 Introduction to React & Components
 
 JSX and File Extensions
@@ -19,14 +19,14 @@ Props: Passing Data & Components
 
 Event Handling in React
 
-🎨 Styling & UI Libraries
+#🎨 Styling & UI Libraries
 Integrating Bootstrap with React
 
 Styling with CSS Modules
 
 Using React Icons for UI enhancement
 
-⚙️ Tooling & Setup
+#⚙️ Tooling & Setup
 Create React App vs Vite
 
 Understanding Project Structure
@@ -35,7 +35,7 @@ Using IDEs efficiently
 
 React Dev Tools for debugging
 
-🔁 State & Lifecycle
+#🔁 State & Lifecycle
 useState Hook for State Management
 
 Props vs State
@@ -46,18 +46,18 @@ useRef for DOM Manipulation
 
 Advanced State with Context API & useReducer
 
-📝 Forms & User Input
+#📝 Forms & User Input
 Controlled Components
 
 Form Handling in React
 
-🧩 React Architecture Insights
+#🧩 React Architecture Insights
 How React Works Behind the Scenes
 
 Comparison: React vs Angular vs Vue
 
-💻 Projects Built
-✅ Todo App
+#💻 Projects Built
+1.✅ Todo App
 ✅ Version 1: Basic Task Management
 
 ✅ Version 2: Improved UI/UX
@@ -67,10 +67,10 @@ Comparison: React vs Angular vs Vue
 ![Screenshot 2025-04-14 012605](https://github.com/user-attachments/assets/380e9e03-c894-4dad-83ab-d9cec3807ec9)
 
 
-🕒 Bharat Clock
+2.🕒 Bharat Clock
 Real-time Digital Clock showing Indian time
 
-🧮 Calculator
+3.🧮 Calculator
 ✅ Version 1: Simple Arithmetic
 
 ✅ Version 2: Enhanced Layout & Features
@@ -78,7 +78,7 @@ Real-time Digital Clock showing Indian time
 ![Screenshot 2025-04-14 012722](https://github.com/user-attachments/assets/627e7b11-c3b6-4909-a502-068a1a6235ac)
 
 
-📱 Social Media App (Version 1)
+4.📱 Social Media App (Version 1)
 Social post UI with React Components and State Management
 
 🌟 About React
