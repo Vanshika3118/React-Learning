@@ -64,6 +64,8 @@ Comparison: React vs Angular vs Vue
 
 ✅ Version 3: Advanced Features
 
+![image](https://github.com/user-attachments/assets/a9161005-537c-473f-9780-03311ea2ca25)
+
 🕒 Bharat Clock
 Real-time Digital Clock showing Indian time
 
@@ -71,6 +73,9 @@ Real-time Digital Clock showing Indian time
 ✅ Version 1: Simple Arithmetic
 
 ✅ Version 2: Enhanced Layout & Features
+
+![Screenshot 2025-04-14 012722](https://github.com/user-attachments/assets/627e7b11-c3b6-4909-a502-068a1a6235ac)
+
 
 📱 Social Media App (Version 1)
 Social post UI with React Components and State Management
