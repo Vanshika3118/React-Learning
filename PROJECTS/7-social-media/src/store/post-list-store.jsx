@@ -23,5 +23,4 @@ const PostListProvider = ({children}) => {
     </PostList.Provider>
   );
 };
-
 export default PostListProvider;
